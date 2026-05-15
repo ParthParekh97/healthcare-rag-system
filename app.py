@@ -148,10 +148,10 @@ def main():
         top_k = st.slider("Retrieval Depth", 1, 10, 5)
         
         st.divider()
-        if st.button("🔄 Rebuild Index", use_container_width=True):
-            with st.spinner("Processing medical corpus..."):
+        if st.button("🔄 Process New Documents", use_container_width=True, help="Click this if you have added new clinical files to the data folder and want the AI to read and learn from them."):
+            with st.spinner("Analyzing new documents..."):
                 pipeline.initialize(force_rebuild=True)
-                st.success("Index Rebuilt")
+                st.success("Library Updated Successfully!")
         
         st.divider()
         st.markdown(
@@ -197,30 +197,31 @@ def main():
         "Provide a summary of the screening and management protocols for mental health in primary care.",
     ]
     
+    # Initialize session state for the query if it doesn't exist
+    if 'query_input' not in st.session_state:
+        st.session_state.query_input = ""
+
     cols = st.columns(3)
-    selected_sample = None
     for i, q in enumerate(sample_questions):
         if cols[i % 3].button(q, key=f"s_{i}", use_container_width=True):
-            selected_sample = q
+            st.session_state.query_input = q
 
     query = st.text_input(
         "",
-        value=selected_sample or "",
+        key="query_input",
         placeholder="Enter a clinical query or select a sample above...",
         label_visibility="collapsed"
     )
 
-    if st.button("Generate Insights", type="primary", use_container_width=True, disabled=not query):
+    if st.button("Generate Insights", type="primary", use_container_width=True, disabled=not st.session_state.query_input):
+        current_query = st.session_state.query_input
         query_mode = "summarize" if mode == "Summarization" else "qa"
 
         with st.spinner("Consulting medical knowledge base..."):
-            # Ensure the query is processed with the local user's context
-            result = pipeline.query(query, top_k=top_k, mode=query_mode)
+            result = pipeline.query(current_query, top_k=top_k, mode=query_mode)
 
         st.divider()
-        
-        # Display the question being answered for clarity
-        st.markdown(f"### ❓ Query: *{query}*")
+        st.markdown(f"### ❓ Query: {current_query}")
         
         col_ans, col_val = st.columns([2, 1])
         
