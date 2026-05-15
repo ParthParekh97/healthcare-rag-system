@@ -157,8 +157,7 @@ def main():
         st.markdown(
             """
             <div style="text-align: center; color: #64748b; font-size: 0.8rem;">
-                Developed by: <strong>Parth K Parekh</strong><br>
-                Lucky Number: <span style="color: #0ea5e9; font-weight: 600;">46</span>
+                Developed by: <strong>Parth K Parekh</strong> | <strong>46</strong>
             </div>
             """, 
             unsafe_allow_html=True
