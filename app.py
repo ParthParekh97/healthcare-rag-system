@@ -214,9 +214,13 @@ def main():
         query_mode = "summarize" if mode == "Summarization" else "qa"
 
         with st.spinner("Consulting medical knowledge base..."):
+            # Ensure the query is processed with the local user's context
             result = pipeline.query(query, top_k=top_k, mode=query_mode)
 
         st.divider()
+        
+        # Display the question being answered for clarity
+        st.markdown(f"### ❓ Query: *{query}*")
         
         col_ans, col_val = st.columns([2, 1])
         
