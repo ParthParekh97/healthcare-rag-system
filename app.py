@@ -152,6 +152,17 @@ def main():
             with st.spinner("Processing medical corpus..."):
                 pipeline.initialize(force_rebuild=True)
                 st.success("Index Rebuilt")
+        
+        st.divider()
+        st.markdown(
+            """
+            <div style="text-align: center; color: #64748b; font-size: 0.8rem;">
+                Developed by: <strong>Parth K Parekh</strong><br>
+                Lucky Number: <span style="color: #0ea5e9; font-weight: 600;">46</span>
+            </div>
+            """, 
+            unsafe_allow_html=True
+        )
 
     # --- HERO SECTION ---
     hero_b64 = get_image_as_base64("assets/hero.png")
@@ -176,15 +187,21 @@ def main():
     st.markdown("### 🔍 Knowledge Query")
     
     sample_questions = [
-        "What is the first-line treatment for Type 2 Diabetes?",
-        "How is hypertension classified according to AHA/ACC?",
-        "What screening tools are used for depression in primary care?",
+        "A 55-year-old patient has a fasting glucose of 135 mg/dL. What are the diagnostic criteria for Type 2 Diabetes?",
+        "How is hypertension classified for a patient with a reading of 145/92 mmHg according to AHA/ACC?",
+        "A primary care physician needs to screen a patient for depression. What specific screening tools are recommended?",
+        "Summarize the lifestyle modifications recommended for managing Stage 1 Hypertension.",
+        "What are the first-line treatment recommendations for a patient newly diagnosed with Type 2 Diabetes?",
+        "A patient has a GFR of 45 mL/min. What stage of chronic kidney disease does this represent?",
+        "What role do SGLT2 inhibitors play in the management of chronic kidney disease (CKD)?",
+        "Compare the diagnostic criteria for diabetes vs. pre-diabetes based on HbA1c levels.",
+        "Provide a summary of the screening and management protocols for mental health in primary care.",
     ]
     
-    cols = st.columns(len(sample_questions))
+    cols = st.columns(3)
     selected_sample = None
     for i, q in enumerate(sample_questions):
-        if cols[i].button(q, key=f"s_{i}", use_container_width=True):
+        if cols[i % 3].button(q, key=f"s_{i}", use_container_width=True):
             selected_sample = q
 
     query = st.text_input(
