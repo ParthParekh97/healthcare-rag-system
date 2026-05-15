@@ -1,8 +1,0 @@
-pytest
-pytest-cov
-black
-flake8
-ipython
-jupyter
-ipykernel
-python-dotenv
