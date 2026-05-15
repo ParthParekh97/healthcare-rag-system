@@ -1,0 +1,83 @@
+Title: Evidence-Based Hypertension Management Guidelines
+Source: American Heart Association / American College of Cardiology (AHA/ACC)
+Document ID: HC-002
+
+1. Definition and Classification
+
+Hypertension is defined as persistently elevated arterial blood pressure. The AHA/ACC 2017 guidelines classify blood pressure as follows:
+- Normal: Systolic < 120 mmHg AND Diastolic < 80 mmHg
+- Elevated: Systolic 120-129 mmHg AND Diastolic < 80 mmHg
+- Stage 1 Hypertension: Systolic 130-139 mmHg OR Diastolic 80-89 mmHg
+- Stage 2 Hypertension: Systolic >= 140 mmHg OR Diastolic >= 90 mmHg
+- Hypertensive Crisis: Systolic > 180 mmHg AND/OR Diastolic > 120 mmHg
+
+2. Epidemiology
+
+Hypertension affects approximately 47% of adults in the United States (116 million people). It is the leading modifiable risk factor for cardiovascular disease and stroke. Prevalence increases with age, affecting over 70% of adults aged 65 and older. African Americans have the highest prevalence of hypertension globally.
+
+3. Pathophysiology
+
+Essential (primary) hypertension accounts for 90-95% of cases and is multifactorial. Contributing mechanisms include:
+- Increased sympathetic nervous system activity
+- Renin-angiotensin-aldosterone system (RAAS) overactivation
+- Endothelial dysfunction with reduced nitric oxide availability
+- Increased peripheral vascular resistance
+- Sodium retention and volume expansion
+- Genetic predisposition (estimated 30-50% heritability)
+
+Secondary hypertension (5-10% of cases) may result from renal artery stenosis, primary aldosteronism, pheochromocytoma, Cushing syndrome, thyroid disorders, obstructive sleep apnea, or coarctation of the aorta.
+
+4. Diagnostic Workup
+
+Initial evaluation includes:
+- Office blood pressure measurement using proper technique (patient seated, arm supported, appropriate cuff size)
+- Ambulatory Blood Pressure Monitoring (ABPM) or Home Blood Pressure Monitoring (HBPM) to confirm diagnosis
+- Basic laboratory: Complete metabolic panel, complete blood count, lipid panel, thyroid-stimulating hormone, urinalysis, electrocardiogram
+- Assessment for target organ damage: Echocardiography, fundoscopic examination, urine albumin-to-creatinine ratio
+
+5. Treatment Targets
+
+- General population: < 130/80 mmHg
+- Patients with diabetes: < 130/80 mmHg
+- Patients with chronic kidney disease: < 130/80 mmHg
+- Elderly patients (>= 65 years): Systolic < 130 mmHg if tolerated; individualize based on frailty and comorbidities
+- Pregnancy: < 140/90 mmHg (or < 135/85 mmHg per some guidelines)
+
+6. First-Line Pharmacological Agents
+
+Four classes of antihypertensive medications are recommended as first-line therapy:
+
+a) ACE Inhibitors (e.g., lisinopril, enalapril, ramipril):
+   - Mechanism: Block conversion of angiotensin I to angiotensin II
+   - Preferred in: Diabetes, chronic kidney disease, heart failure, post-MI
+   - Key side effects: Dry cough (10-15%), hyperkalemia, angioedema (rare)
+
+b) Angiotensin II Receptor Blockers (ARBs) (e.g., losartan, valsartan, olmesartan):
+   - Mechanism: Block AT1 receptors
+   - Preferred in: Same indications as ACE inhibitors; alternative when ACE inhibitor cough occurs
+   - Key side effects: Hyperkalemia, rarely angioedema
+
+c) Calcium Channel Blockers (CCBs) (e.g., amlodipine, nifedipine):
+   - Mechanism: Block L-type calcium channels in vascular smooth muscle
+   - Preferred in: African American patients, elderly, isolated systolic hypertension
+   - Key side effects: Peripheral edema, headache, flushing
+
+d) Thiazide Diuretics (e.g., chlorthalidone, hydrochlorothiazide, indapamide):
+   - Mechanism: Inhibit sodium-chloride cotransporter in distal tubule
+   - Preferred in: Elderly, African American patients, osteoporosis
+   - Key side effects: Hypokalemia, hyperuricemia, hyperglycemia
+
+7. Lifestyle Modifications for Hypertension
+
+- DASH diet (Dietary Approaches to Stop Hypertension): Rich in fruits, vegetables, whole grains, low-fat dairy; reduces BP by 8-14 mmHg
+- Sodium restriction: < 2,300 mg/day (ideally < 1,500 mg/day); reduces BP by 5-6 mmHg
+- Physical activity: 90-150 minutes per week of aerobic exercise; reduces BP by 5-8 mmHg
+- Weight loss: Each kg lost reduces BP by approximately 1 mmHg
+- Alcohol moderation: <= 2 drinks/day for men, <= 1 drink/day for women; reduces BP by 2-4 mmHg
+- Smoking cessation: Does not directly lower BP but significantly reduces cardiovascular risk
+- Stress management: Techniques such as meditation and cognitive behavioral therapy may provide modest BP reductions
+
+8. Resistant Hypertension
+
+Defined as blood pressure remaining above goal despite use of 3 optimally dosed antihypertensive agents of different classes, including a diuretic. Affects approximately 10-15% of treated hypertensive patients.
+Evaluation should include assessment for medication adherence, white-coat effect, secondary causes, and interfering substances (NSAIDs, oral contraceptives, decongestants). Addition of spironolactone (25-50 mg/day) is recommended as fourth-line therapy.

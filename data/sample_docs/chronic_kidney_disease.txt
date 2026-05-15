@@ -1,0 +1,102 @@
+Title: Chronic Kidney Disease: Staging, Management, and Referral Guidelines
+Source: Kidney Disease Improving Global Outcomes (KDIGO) 2024 Clinical Practice Guidelines
+Document ID: HC-004
+
+1. Definition and Staging
+
+Chronic Kidney Disease (CKD) is defined as abnormalities of kidney structure or function present for more than 3 months with implications for health. CKD is staged based on estimated Glomerular Filtration Rate (eGFR) and albuminuria:
+
+eGFR-Based Staging:
+- Stage G1: eGFR >= 90 mL/min/1.73m2 (Normal or high) with evidence of kidney damage
+- Stage G2: eGFR 60-89 mL/min/1.73m2 (Mildly decreased) with evidence of kidney damage
+- Stage G3a: eGFR 45-59 mL/min/1.73m2 (Mildly to moderately decreased)
+- Stage G3b: eGFR 30-44 mL/min/1.73m2 (Moderately to severely decreased)
+- Stage G4: eGFR 15-29 mL/min/1.73m2 (Severely decreased)
+- Stage G5: eGFR < 15 mL/min/1.73m2 (Kidney failure)
+
+Albuminuria Categories:
+- A1: UACR < 30 mg/g (Normal to mildly increased)
+- A2: UACR 30-300 mg/g (Moderately increased, formerly "microalbuminuria")
+- A3: UACR > 300 mg/g (Severely increased, formerly "macroalbuminuria")
+
+2. Epidemiology
+
+CKD affects approximately 15% of the US adult population (37 million people). Leading causes are diabetes (44%) and hypertension (29%). CKD is associated with a 2-3 fold increased risk of cardiovascular mortality. Many patients with early CKD are undiagnosed, making screening in high-risk populations essential.
+
+3. Screening Recommendations
+
+Annual screening is recommended for high-risk populations:
+- Patients with diabetes mellitus
+- Patients with hypertension
+- Family history of kidney disease
+- Age > 60 years
+- History of acute kidney injury
+- Cardiovascular disease
+- Obesity
+- Certain ethnic groups (African American, Hispanic, Native American)
+
+Screening tests: serum creatinine with eGFR calculation (using CKD-EPI 2021 equation without race coefficient), urine albumin-to-creatinine ratio (UACR).
+
+4. Management by Stage
+
+Stage G1-G2 (eGFR >= 60 with kidney damage):
+- Identify and treat underlying cause
+- Blood pressure control (target < 130/80 mmHg)
+- ACE inhibitor or ARB for patients with albuminuria (UACR >= 30 mg/g)
+- SGLT2 inhibitor (dapagliflozin or empagliflozin) if UACR >= 200 mg/g or eGFR 20-45, regardless of diabetes status
+- Statin therapy for cardiovascular risk reduction
+- Annual monitoring of eGFR and UACR
+
+Stage G3a-G3b (eGFR 30-59):
+- All above measures plus:
+- Monitor for CKD complications: anemia, metabolite bone disorder, acidosis, hyperkalemia
+- Adjust medication dosing for kidney function
+- Avoid nephrotoxic agents (NSAIDs, iodinated contrast without precautions, aminoglycosides)
+- Phosphate management if serum phosphate elevated
+- Bicarbonate supplementation if serum bicarbonate < 22 mEq/L
+- Monitor parathyroid hormone (PTH) levels
+- Monitoring every 3-6 months
+
+Stage G4 (eGFR 15-29):
+- All above measures plus:
+- Nephrology referral required
+- Renal replacement therapy education (hemodialysis, peritoneal dialysis, kidney transplantation, conservative management)
+- Vascular access planning for hemodialysis (ideally AV fistula creation when eGFR approaches 15-20)
+- Transplant evaluation if candidate
+- Erythropoiesis-stimulating agents (ESAs) for anemia (target hemoglobin 10-11.5 g/dL)
+- Dietary protein restriction (0.6-0.8 g/kg/day)
+- Monitoring every 1-3 months
+
+Stage G5 (eGFR < 15):
+- Initiate renal replacement therapy when symptomatic or eGFR < 5-7 mL/min/1.73m2
+- Indications for urgent dialysis: refractory hyperkalemia, severe metabolic acidosis, volume overload unresponsive to diuretics, uremic pericarditis, uremic encephalopathy
+
+5. SGLT2 Inhibitors in CKD
+
+Landmark trials have established SGLT2 inhibitors as foundational CKD therapy:
+- DAPA-CKD trial: Dapagliflozin reduced composite kidney outcome by 39% vs placebo
+- EMPA-KIDNEY trial: Empagliflozin reduced kidney progression by 28%
+- Benefits independent of diabetes status
+- Recommended for eGFR >= 20 mL/min/1.73m2 with UACR >= 200 mg/g
+- Can be continued once initiated even if eGFR falls below 20
+- Expected initial eGFR dip of 3-5 mL/min is hemodynamic and reversible
+
+6. Cardiovascular Risk Management
+
+CKD patients are at markedly elevated cardiovascular risk. Management includes:
+- Statin or statin/ezetimibe combination for all CKD patients aged >= 50
+- Aspirin for secondary prevention of atherosclerotic cardiovascular disease
+- Blood pressure control with RAAS inhibitors as first-line
+- GLP-1 receptor agonists for CKD patients with type 2 diabetes and high cardiovascular risk (based on FLOW trial data)
+- Finerenone (nonsteroidal mineralocorticoid receptor antagonist) for diabetic kidney disease with persistent albuminuria despite RAAS inhibitor therapy
+
+7. Referral to Nephrology
+
+Prompt nephrology referral is indicated for:
+- eGFR < 30 mL/min/1.73m2 (Stage G4-G5)
+- Persistent UACR > 300 mg/g
+- Rapid eGFR decline (> 5 mL/min/1.73m2 per year)
+- CKD with refractory hypertension (>= 4 agents)
+- Persistent hyperkalemia (K > 5.5 mEq/L)
+- Recurrent nephrolithiasis
+- Suspected glomerulonephritis or hereditary kidney disease

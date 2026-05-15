@@ -1,0 +1,60 @@
+Title: Clinical Guidelines for Type 2 Diabetes Management
+Source: National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+Document ID: HC-001
+
+1. Overview of Type 2 Diabetes
+
+Type 2 diabetes is a chronic metabolic disorder characterized by insulin resistance and relative insulin deficiency. It accounts for approximately 90-95% of all diabetes cases. The condition develops when the body becomes resistant to insulin or when the pancreas fails to produce sufficient insulin to maintain normal glucose levels.
+
+Risk factors include obesity (BMI >= 30), sedentary lifestyle, family history of diabetes, age over 45 years, history of gestational diabetes, polycystic ovary syndrome, and certain ethnic backgrounds including African American, Hispanic, Native American, and Asian American populations.
+
+2. Diagnostic Criteria
+
+Diagnosis of Type 2 Diabetes is established through the following laboratory tests:
+- Fasting Plasma Glucose (FPG): >= 126 mg/dL (7.0 mmol/L) on two separate occasions
+- Oral Glucose Tolerance Test (OGTT): 2-hour plasma glucose >= 200 mg/dL (11.1 mmol/L)
+- Hemoglobin A1c (HbA1c): >= 6.5% (48 mmol/mol)
+- Random Plasma Glucose: >= 200 mg/dL (11.1 mmol/L) with classic symptoms of hyperglycemia
+
+Prediabetes is defined as FPG 100-125 mg/dL, OGTT 140-199 mg/dL, or HbA1c 5.7-6.4%.
+
+3. First-Line Pharmacological Treatment
+
+Metformin remains the recommended first-line pharmacological agent for Type 2 Diabetes. Starting dose is typically 500 mg once or twice daily, titrated to a maximum of 2000-2550 mg/day in divided doses. Metformin works by reducing hepatic glucose production and improving insulin sensitivity.
+
+Contraindications for metformin include estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73m2, acute or chronic metabolic acidosis, and known hypersensitivity to the drug.
+
+4. Second-Line Therapies
+
+When metformin alone fails to achieve glycemic targets (typically HbA1c < 7.0%), additional agents may be considered:
+- SGLT2 Inhibitors (e.g., empagliflozin, dapagliflozin): Recommended for patients with established cardiovascular disease or chronic kidney disease due to demonstrated cardiorenal benefits.
+- GLP-1 Receptor Agonists (e.g., semaglutide, liraglutide): Preferred for patients requiring weight loss or with high cardiovascular risk.
+- DPP-4 Inhibitors (e.g., sitagliptin, linagliptin): Suitable for patients who need a well-tolerated oral option with low hypoglycemia risk.
+- Sulfonylureas (e.g., glimepiride, glipizide): Cost-effective but carry risk of hypoglycemia and weight gain.
+- Insulin Therapy: Basal insulin may be initiated when oral agents fail to achieve adequate glycemic control.
+
+5. Lifestyle Modifications
+
+All patients with Type 2 Diabetes should receive counseling on lifestyle modifications:
+- Medical Nutrition Therapy: Individualized meal planning focusing on carbohydrate counting or consistent carbohydrate intake. Recommended macronutrient distribution: 45-65% carbohydrates, 20-35% fat, 15-20% protein.
+- Physical Activity: Minimum 150 minutes per week of moderate-intensity aerobic exercise, plus resistance training 2-3 times per week. Exercise reduces HbA1c by approximately 0.5-0.7%.
+- Weight Management: 5-7% body weight reduction significantly improves glycemic control. For obese patients, bariatric surgery may be considered if BMI >= 35 with comorbidities.
+
+6. Monitoring and Follow-Up
+
+- HbA1c testing every 3-6 months
+- Self-monitoring of blood glucose (SMBG) for patients on insulin or sulfonylureas
+- Annual comprehensive foot examination
+- Annual dilated eye examination for diabetic retinopathy screening
+- Annual urine albumin-to-creatinine ratio (UACR) and eGFR for nephropathy screening
+- Blood pressure monitoring at every visit (target < 130/80 mmHg)
+- Lipid panel annually (LDL target < 100 mg/dL; < 70 mg/dL for high cardiovascular risk)
+
+7. Complications
+
+Chronic complications of Type 2 Diabetes include:
+- Microvascular: Diabetic retinopathy, nephropathy, and neuropathy
+- Macrovascular: Coronary artery disease, peripheral arterial disease, cerebrovascular disease
+- Diabetic foot ulcers and lower extremity amputations
+- Diabetic ketoacidosis (rare in Type 2 but possible under stress)
+- Hyperosmolar hyperglycemic state (HHS): Medical emergency with mortality rate of 10-20%

@@ -1,0 +1,81 @@
+Title: Mental Health Screening and Intervention in Primary Care
+Source: United States Preventive Services Task Force (USPSTF) and APA Guidelines
+Document ID: HC-003
+
+1. Depression Screening
+
+The USPSTF recommends screening for depression in all adults aged 18 years and older, including pregnant and postpartum individuals. Screening should be implemented with adequate systems in place for accurate diagnosis, effective treatment, and appropriate follow-up.
+
+Primary Screening Tool - PHQ-9 (Patient Health Questionnaire-9):
+- Scores 0-4: Minimal depression, no treatment necessary
+- Scores 5-9: Mild depression, watchful waiting with repeat PHQ-9 at follow-up
+- Scores 10-14: Moderate depression, consider pharmacotherapy and/or psychotherapy
+- Scores 15-19: Moderately severe depression, pharmacotherapy and/or psychotherapy recommended
+- Scores 20-27: Severe depression, immediate pharmacotherapy plus psychotherapy; consider referral to psychiatry
+
+The PHQ-2 may be used as an initial brief screen (sensitivity 83%, specificity 92%). If PHQ-2 score >= 3, proceed with full PHQ-9.
+
+2. Anxiety Screening
+
+The USPSTF recommends screening for anxiety disorders in adults aged 18 to 64 years. Screening tool: GAD-7 (Generalized Anxiety Disorder 7-item scale).
+
+GAD-7 Scoring:
+- Scores 0-4: Minimal anxiety
+- Scores 5-9: Mild anxiety, monitor and reassess
+- Scores 10-14: Moderate anxiety, consider pharmacotherapy or CBT
+- Scores 15-21: Severe anxiety, pharmacotherapy plus psychotherapy recommended
+
+3. First-Line Pharmacological Treatment for Depression
+
+Selective Serotonin Reuptake Inhibitors (SSRIs) are first-line:
+- Sertraline: Starting dose 50 mg/day, therapeutic range 50-200 mg/day. Preferred in cardiac patients.
+- Escitalopram: Starting dose 10 mg/day, therapeutic range 10-20 mg/day. Favorable side effect profile.
+- Fluoxetine: Starting dose 20 mg/day, therapeutic range 20-80 mg/day. Long half-life; preferred in adolescents.
+
+Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs) as alternative first-line:
+- Venlafaxine XR: Starting dose 37.5-75 mg/day, therapeutic range 75-225 mg/day. Effective for comorbid pain.
+- Duloxetine: Starting dose 30 mg/day, therapeutic range 60-120 mg/day. Approved for diabetic neuropathy and fibromyalgia.
+
+Key considerations: Allow 4-6 weeks for therapeutic response. Monitor for suicidal ideation especially in patients under 25 years. Taper gradually when discontinuing to avoid withdrawal syndrome.
+
+4. Psychotherapy Options
+
+Evidence-based psychotherapy approaches:
+- Cognitive Behavioral Therapy (CBT): First-line psychotherapy for depression and anxiety. 12-16 sessions typical course. NNT (number needed to treat) of approximately 4 for depression.
+- Interpersonal Therapy (IPT): Focuses on relationship issues and role transitions. Equally effective as CBT for depression.
+- Behavioral Activation: Particularly effective for moderate to severe depression. Simpler to deliver than full CBT.
+- Mindfulness-Based Cognitive Therapy (MBCT): Recommended for prevention of depressive relapse in patients with >= 3 previous episodes.
+
+5. Suicide Risk Assessment
+
+Every patient screening positive for depression must be assessed for suicide risk. Key elements:
+- Direct questioning about suicidal ideation, plan, intent, and access to means
+- Columbia Suicide Severity Rating Scale (C-SSRS) for standardized assessment
+- Risk factors: Previous attempts (strongest predictor), family history, substance use, chronic pain, social isolation, recent loss
+- Protective factors: Social support, therapeutic relationship, coping skills, restricted access to lethal means
+
+High-risk patients require immediate safety planning, means restriction counseling, and consideration of psychiatric hospitalization. The Zero Suicide framework recommends systematic screening at every clinical encounter.
+
+6. Substance Use Screening
+
+SBIRT (Screening, Brief Intervention, and Referral to Treatment) model recommended in primary care:
+- AUDIT-C for alcohol use screening (score >= 4 in men, >= 3 in women indicates at-risk drinking)
+- DAST-10 for drug use screening
+- Single-question screen: "How many times in the past year have you used an illegal drug or used a prescription medication for nonmedical reasons?"
+
+7. Integrated Behavioral Health Model
+
+The Collaborative Care Model (CoCM) is the most evidence-supported model for integrating mental health into primary care. Components include:
+- Primary care provider managing medications
+- Behavioral health care manager (typically a social worker or psychologist) providing brief interventions and care coordination
+- Psychiatric consultant reviewing cases and providing recommendations
+- Measurement-based care using standardized outcome tools (PHQ-9, GAD-7) at every visit
+- Registry-based tracking of all patients in treatment
+
+CoCM has demonstrated effectiveness with NNT of 5-7 for depression remission and is reimbursable through CMS billing codes (CoCM codes 99492, 99493, 99494).
+
+8. Special Populations
+
+- Perinatal depression: Screen using Edinburgh Postnatal Depression Scale (EPDS). Sertraline and paroxetine have minimal breast milk transfer. CBT is first-line for mild-moderate cases.
+- Geriatric depression: May present with somatic complaints rather than mood symptoms. SSRIs preferred; avoid TCAs due to anticholinergic effects. Screen for cognitive impairment as depression may mimic or coexist with dementia.
+- Adolescents: PHQ-A (modified for adolescents). Fluoxetine is FDA-approved for adolescent depression. CBT plus medication is more effective than either alone.

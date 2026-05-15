@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+
+# Project Specific
+.claude/
+data/index/
+
+# OS
+.DS_Store
+Thumbs.db
