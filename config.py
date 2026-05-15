@@ -1,10 +1,18 @@
 import os
 from dotenv import load_dotenv
 
+import streamlit as st
+
 load_dotenv()
 
 
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
+# Try to get API key from environment (local) or st.secrets (Streamlit Cloud)
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+if not GEMINI_API_KEY:
+    try:
+        GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
+    except Exception:
+        GEMINI_API_KEY = ""
 
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 EMBEDDING_DIMENSION = 384
